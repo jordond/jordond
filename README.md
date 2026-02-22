@@ -20,35 +20,27 @@ Mostly tinkering with Compose, Material, and whatever seems fun next.
 
 ---
 
-### What I Build
+## What I Build
 
-Libraries focused on **Compose Multiplatform** and **Material Design** — used in production apps worldwide.
+### Libraries
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Kotlin and Compose Multiplatform:
 
-**[MaterialKolor](https://github.com/jordond/MaterialKolor)** <br/>
-Dynamic Material3 color schemes from any seed color
+- 🖌️ **[MaterialKolor](https://github.com/jordond/MaterialKolor)**
+  - Dynamic Material3 color schemes from any seed color
+- 🛜 **[connectivity](https://github.com/jordond/connectivity)**
+  - Network monitoring for Kotlin Multiplatform
+- 🧭 **[compass](https://github.com/jordond/compass)**
+  - Location toolkit with geocoding & geolocation
+- 🎨 **[kmpalette](https://github.com/jordond/kmpalette)**
+  - Extract color palettes from images (AndroidX Palette port)
+- 🐉 **[drag-select-compose](https://github.com/jordond/drag-select-compose)**
+  - Google Photos-style drag selection for LazyGrid
+ 
+## Tools
 
-**[connectivity](https://github.com/jordond/connectivity)** <br/>
-Network monitoring for Kotlin Multiplatform
+- ⚡️ **[jolt](https://github.com/jordond/jolt)**
+  - Terminal battery monitor for macOS/Linux (Rust)
+- 🧠 **[Compose Resources Kit](https://github.com/jordond/compose-resources-kit)**
+  - Intellij plugin - A collection of tools for working with Compose Multiplatform resources.
 
-**[compass](https://github.com/jordond/compass)** <br/>
-Location toolkit with geocoding & geolocation
-
-</td>
-<td width="50%" valign="top">
-
-**[kmpalette](https://github.com/jordond/kmpalette)**<br/>
-Extract color palettes from images (AndroidX Palette port)
-
-**[drag-select-compose](https://github.com/jordond/drag-select-compose)**<br/>
-Google Photos-style drag selection for LazyGrid
-
-**[jolt](https://github.com/jordond/jolt)**<br/>
-Terminal battery monitor for macOS/Linux (Rust)
-
-</td>
-</tr>
-</table>
