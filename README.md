@@ -13,8 +13,6 @@ Mostly tinkering with Compose, Material, and whatever seems fun next.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 
 </div>
 
