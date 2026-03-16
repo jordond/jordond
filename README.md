@@ -20,6 +20,18 @@ Mostly tinkering with Compose, Material, and whatever seems fun next.
 
 ## What I Build
 
+## Apps
+
+I've built a couple fun apps using Compose Multiplatform:
+
+- **[Toebeans](https://toebeans.life)**
+  - Toebeans is a cat fortune teller app that uses the nine lives of a cat to predict your future. It's a fun and easy way to get a glimpse into your cat's future.
+  - Uses MediaPipe for object detection, and Gemini AI for the generation of fortunes.
+- **[Should I Go Outside?](https://shouldigooutside.now)**
+  - A simple, fun weather app that answers the question "Should I go outside?" with a simple Yes, No, or Maybe.
+  - The full-stack is Kotlin Multiplatform. Ktor for the backend API, and Compose Multiplatform for the client
+  - [Open source](https://github.com/jordond/SIGO)
+
 ### Libraries
 
 Kotlin and Compose Multiplatform:
