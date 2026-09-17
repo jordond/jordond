@@ -29,6 +29,9 @@ I've built a couple fun apps using Compose Multiplatform:
   - A simple, fun weather app that answers the question "Should I go outside?" with a simple Yes, No, or Maybe.
   - The full-stack is Kotlin Multiplatform. Ktor for the backend API, and Compose Multiplatform for the client
   - [Open source](https://github.com/jordond/SIGO)
+- **[brewd](https://getbrewd.app)**
+  - Cozy coffee journal for iOS and Android
+  - Created for the [RevenueCat Shipaton](https://revenuecat-shipaton-2026.devpost.com/) contest 
 - **[WhaleSay](https://whalesay.app)**
   - An app no one knew they wanted, a Human to Whale translator
   - Kotlin Multiplatform client app, with a Hono API hosted on Cloudflare 
